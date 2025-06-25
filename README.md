@@ -25,7 +25,7 @@ I’m passionate about continuous learning, team collaboration, and building bea
 ## 🚀 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,tailwind,html,css,git,github,vite,figma,nodejs,mongodb,mysql,php,laravel,express,unity,c,cpp,csharp,firebase,npm,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,git,github,nodejs,mongodb,mysql,php,laravel,express,unity,c,cpp,csharp,firebase,npm,vercel,netlify" />
 </p>
 
 ---
