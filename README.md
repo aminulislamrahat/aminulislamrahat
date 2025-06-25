@@ -19,9 +19,9 @@ I’m passionate about continuous learning, team collaboration, and building bea
 
 ## 🔭 What I'm Doing Now
 
-- 🚧 Building a **tourism-focused web application**
+- 🚧 Building a **management-focused web application**
 - 🧪 Exploring **Next.js** and server-side rendering
-- ✨ Experimenting with **design systems** & **micro-interactions**
+- ✨ Experimenting with **design systems** & **animations**
 
 ---
 
@@ -35,8 +35,11 @@ I’m passionate about continuous learning, team collaboration, and building bea
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-aminul-islam-rahat-803437219/)  
+
+<p align="left">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-aminul-islam-rahat-803437219/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aminulislambhuiyanrahat@gmail.com)
+</p>
 
 ---
 
