@@ -1,5 +1,5 @@
 <!-- 🖼️ Banner Image (replace with your own hosted image URL) -->
-<img src="https://your-banner-image-url.com/banner.png" alt="Md. Aminul Islam Bhuiyan Rahat" width="100%" />
+<img src="./banner.png" alt="Md. Aminul Islam Bhuiyan Rahat" width="100%" />
 
 # 👋 Hi, I'm Md. Aminul Islam Bhuiyan Rahat  
 ### 💻 Frontend Developer | React & UI Enthusiast
