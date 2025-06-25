@@ -32,7 +32,7 @@ I’m passionate about continuous learning, team collaboration, and building bea
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-aminul-islam-rahat-803437219/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-aminul-islam-rahat-803437219/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aminulislambhuiyanrahat@gmail.com)
 
 ---
@@ -89,13 +89,3 @@ I’m passionate about continuous learning, team collaboration, and building bea
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=aminulislamrahat&theme=gruvbox_light&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=aminulislamrahat&icon=4&color=12)](https://visitcount.itsvg.in)
-
-<!-- Feel free to customize the banner, stats themes, and color schemes as you like -->
