@@ -37,23 +37,10 @@ I’m passionate about continuous learning, team collaboration, and building bea
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminulislamrahat&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aminulislamrahat&theme=gruvbox_light&hide_border=false" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulislamrahat&theme=gruvbox_light&hide_border=false&layout=compact" width="48%" />
-</p>
-
----
-
 <!-- 🌟 GitHub Stats Section - Optimized & Fixed -->
 <div align="center">
 
-## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> GitHub Analytics
+## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> GitHub Stats Analytics
 
 <!-- Dynamic Stats Grid with Cache Busting -->
 <p align="center">
