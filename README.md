@@ -1,5 +1,6 @@
 <!-- 🖼️ Banner Image (replace with your own hosted image URL) -->
 <img src="./banner.png" alt="Md. Aminul Islam Bhuiyan Rahat" width="100%" />
+![Header](./github-header-image.png)
 
 ---
 
