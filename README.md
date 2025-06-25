@@ -1,9 +1,7 @@
 <!-- 🖼️ Banner Image (replace with your own hosted image URL) -->
-<img src="./banner.png" alt="Md. Aminul Islam Bhuiyan Rahat" width="100%" />
+<img src="./github-header-banner-final.png" alt="Md. Aminul Islam Bhuiyan Rahat" width="100%" />
 
 ---
-
-![Header](./github-header-image.png)
 
 ## 🧑‍💼 About Me
 
@@ -34,11 +32,8 @@ I’m passionate about continuous learning, team collaboration, and building bea
 
 ## 🌐 Socials
 
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-aminul-islam-rahat-803437219/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aminulislambhuiyanrahat@gmail.com)
-
 
 ---
 
